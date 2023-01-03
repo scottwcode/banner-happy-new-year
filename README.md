@@ -1,6 +1,6 @@
-## 2021 Happy New Year Banner
+## 2023 Happy New Year Banner
 
-### Displays a 2021 Happy New Year banner with stars in the background. Created another repo that contains a page that prompts for banner info and removed the prompts from this repo banner.
+### Displays a 2023 Happy New Year banner with stars in the background. Created another repo that contains a page that prompts for banner info and removed the prompts from this repo banner.
 
 ### Uses the following:
 
